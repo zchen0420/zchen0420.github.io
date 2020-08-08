@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zchen0420/zchen0420.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+$$Y = X^2$$
 
 # Header 1
 ## Header 2
